@@ -28,6 +28,7 @@ CSS3 with animations and transitions
 JavaScript for dynamic features and smooth scrolling
 
 ## 📷 Screenshots
+Disclaimer: These screenshots showcase just the front part of the website.
 #### Light Mode
 ![image](https://github.com/user-attachments/assets/ec9f04ac-a5f2-4e49-9291-dce27e688499)
 
