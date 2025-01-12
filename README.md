@@ -1,4 +1,4 @@
-# 🎄 Responsive Christmas Landing Page
+#  Responsive JoyWorks Landing Page
 A beautifully designed, festive landing page perfect for the holiday season. This project is built with HTML, CSS, and JavaScript, featuring delightful animations, smooth scrolling, and a toggle for light and dark modes.
 
 ## 🎨 About This Website
