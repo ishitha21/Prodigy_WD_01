@@ -20,7 +20,7 @@ Responsive-JoyWorks-Landing-Page/
 - README.md       # Project documentation
 
 ## 🎥 Demo
-Check out the live demo here.
+Check out the live demo [here](https://ishitha21.github.io/ishitha21-Prodigy_WD_01/index.html).
 
 ## 🛠️ Technologies Used
 - HTML5 for semantic structure
