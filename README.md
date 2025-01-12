@@ -23,12 +23,12 @@ Responsive-JoyWorks-Landing-Page/
 Check out the live demo here.
 
 ## 🛠️ Technologies Used
-HTML5 for semantic structure
-CSS3 with animations and transitions
-JavaScript for dynamic features and smooth scrolling
+- HTML5 for semantic structure
+- CSS3 with animations and transitions
+- JavaScript for dynamic features and smooth scrolling
 
 ## 📷 Screenshots
-Disclaimer: These screenshots showcase just the front part of the website.
+**Disclaimer:** These screenshots showcase just the front part of the website.
 #### Light Mode
 ![image](https://github.com/user-attachments/assets/ec9f04ac-a5f2-4e49-9291-dce27e688499)
 
