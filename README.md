@@ -9,7 +9,7 @@ As part of my journey in web development and managing a small-scale business, I 
 - Smooth Scrolling: Navigate seamlessly between sections.
 - Dark and Light Mode: Switch between light and dark themes for a personalized experience.
 - Mobile-First Design: Developed with mobile devices in mind, ensuring responsiveness across all screen sizes.
-- Cross-Device Compatibility: Works flawlessly on all mobile devices, tablets, and desktops.
+- **Cross-Device Compatibility: Works flawlessly on all mobile devices, tablets, and desktops.**
 
 ## 📂 Project Structure
 Responsive-JoyWorks-Landing-Page/
@@ -28,7 +28,7 @@ Check out the live demo [here](https://ishitha21.github.io/ishitha21-Prodigy_WD_
 - JavaScript for dynamic features and smooth scrolling
 
 ## 📷 Screenshots
-**Disclaimer:** These screenshots showcase just the front part of the website.
+### **Disclaimer:** These screenshots showcase just the front part of the website.
 #### Light Mode
 ![image](https://github.com/user-attachments/assets/ec9f04ac-a5f2-4e49-9291-dce27e688499)
 
