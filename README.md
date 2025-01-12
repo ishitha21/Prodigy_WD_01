@@ -5,20 +5,19 @@ A beautifully designed, festive landing page perfect for the holiday season. Thi
 As part of my journey in web development and managing a small-scale business, I decided to build my own website to showcase my handmade products. This project is a combination of creative design, coding skills, and entrepreneurial spirit, designed to connect with customers and create a memorable online presence.
 
 ## ✨ Features
-Festive Animations: Enjoy smooth animations as you scroll through the page.
-Smooth Scrolling: Navigate seamlessly between sections.
-Dark and Light Mode: Switch between light and dark themes for a personalized experience.
-Mobile-First Design: Developed with mobile devices in mind, ensuring responsiveness across all screen sizes.
-Cross-Device Compatibility: Works flawlessly on all mobile devices, tablets, and desktops.
-Beautiful UI: A charming, user-friendly interface inspired by the holiday spirit.
+- Festive Animations: Enjoy smooth animations as you scroll through the page.
+- Smooth Scrolling: Navigate seamlessly between sections.
+- Dark and Light Mode: Switch between light and dark themes for a personalized experience.
+- Mobile-First Design: Developed with mobile devices in mind, ensuring responsiveness across all screen sizes.
+- Cross-Device Compatibility: Works flawlessly on all mobile devices, tablets, and desktops.
 
 ## 📂 Project Structure
 Responsive-JoyWorks-Landing-Page/
-├── index.html      # Main HTML file
-├── styles.css      # Styling
-├── script.js       # JavaScript
-├── assets/         # Images
-└── README.md       # Project documentation
+- index.html      # Main HTML file
+- styles.css      # Styling
+- script.js       # JavaScript
+- assets/         # Images
+- README.md       # Project documentation
 
 ## 🎥 Demo
 Check out the live demo here.
